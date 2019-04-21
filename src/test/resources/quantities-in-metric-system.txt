@@ -1,0 +1,6 @@
+# Quantities in kilos
+21.3
+57
+90.6
+876
+204.9

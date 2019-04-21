@@ -1,0 +1,14 @@
+[
+  {
+    "id": "element1",
+    "name": {
+      "value": "Element 1"
+    }
+  },
+  {
+    "id": "element2",
+    "name": {
+      "value": "Element 2"
+    }
+  }
+]
