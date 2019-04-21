@@ -1,4 +1,4 @@
-<!--[![Build Status](https://travis-ci.org/luisdeltoro/arrow-effects-retry.svg?branch=master)](https://travis-ci.org/luisdeltoro/arrow-effects-retry)-->
+[![Build Status](https://travis-ci.org/luisdeltoro/2xfs.svg?branch=master)](https://travis-ci.org/luisdeltoro/2xfs)
 
 # Fluent Streaming (Framework) For Sequences (2xfs)
 
